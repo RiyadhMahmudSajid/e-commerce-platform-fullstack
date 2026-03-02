@@ -62,7 +62,7 @@ export default function Navbar() {
                         </span>
                     </NavLink>
 
-                    <div className="hidden md:flex items-center space-x-6 lg:space-x-8">
+                    <div className="hidden md:flex items-center space-x-6 md:space-x-2 lg:space-x-8">
                         {navLinks.map((link) => (
                             <NavLink
                                 key={link.name}
@@ -89,7 +89,7 @@ export default function Navbar() {
                         </div>
                     </div>
 
-                    <div className="hidden md:flex items-center space-x-3">
+                    <div className="hidden md:flex items-center space-x-3 md:space-x-1 lg:space-x-3">
 
                         <div className="relative group">
                             <input

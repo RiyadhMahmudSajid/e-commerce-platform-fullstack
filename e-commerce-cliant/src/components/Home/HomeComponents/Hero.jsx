@@ -16,7 +16,7 @@ export default function Hero() {
       <div className="absolute -top-40 -left-40 w-[480px] h-[480px] bg-accent opacity-[0.08] rounded-full blur-[140px]" />
 
       <div className="relative max-w-7xl mx-auto px-6 lg:px-12 w-full py-12">
-        <div className="grid lg:grid-cols-12 gap-14 items-center">
+        <div className="grid  lg:grid-cols-12 gap-14 items-center">
 
  
           <div className="lg:col-span-7 space-y-10">
