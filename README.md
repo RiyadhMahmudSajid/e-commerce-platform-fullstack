@@ -32,4 +32,8 @@ The platform is built with a focus on High Performance, Scalability, and Securit
 # 🚀 Future Plans</u>
 * Adding a "Flash Sale" or "Discount Coupon" system.
 * Implementing an automated email system for invoice generation.
+## Clone the Repositories
+First, clone both the Frontend and Backend repositories:
+* **Frontend:** git clone [frontend-repo-link](https://github.com/RiyadhMahmudSajid/e-commerce-cliant.git)
+* **Backend:** git clone [backend-repo-link](https://github.com/RiyadhMahmudSajid/e-commerce-server.git)
 # [Live-Site:](https://e-commerce-8ba86.web.app/)
